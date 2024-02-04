@@ -1,5 +1,6 @@
 
 # Fuel Beta-4 Testnet Node Kurma Rehberi
+![Adsız (Sunum)](https://github.com/eminmtas/fuel-beta4-node-kurma-rehberi/assets/44838743/78117d0a-1c9e-45ba-a616-b1a64434d74e)
 
 Selamlar, [Fuel](https://x.com/fuel_network) Beta-4 testneti için kolay bir şekilde node kurabilmeniz için küçük bir rehber hazırlamak istedim. Orijinal dokümantasyon kafa karıştırdığı için basite indirgemeye çalıştım. Umarım açıklayıcı olmuşumdur.
 
