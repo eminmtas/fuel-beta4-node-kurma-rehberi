@@ -1,0 +1,4 @@
+Network: https://beta-5.fuel.network
+Address: fuel1nzutxx3d6l6q9vrwt8dkq7jm6gmrl540jrdyy8d8hey0sez8vl0qj2pm2d?
+Contract ID: 0x59d67d5d1a9de59adb8eb32426e560da7cd8fadc483b74cc0c0f350020bed86c
+Deployed in block 0xc3e673354e040af41fa13bb619520c44209fa09a54e2bc65b37830ff6192cadf
